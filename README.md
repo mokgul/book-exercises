@@ -1,6 +1,6 @@
 # 📘 Programming Book Exercises
 
-A personal collection of exercises and solutions from various programming books.
+> A personal hub for tracking coding exercises from programming books across different languages.
 
 ## 📌 Repositories by Language
 
