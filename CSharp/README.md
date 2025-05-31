@@ -8,4 +8,5 @@ This folder points to the dedicated repository containing C#-related book exerci
 - to add
 - to add
 
-📁 [Go to book-exercises-csharp repo »](https://github.com/yourusername/book-exercises-csharp)
+📁 [Go to book-exercises-csharp repo »](https://github.com/mokgul/book-exercises-csharp)
+
