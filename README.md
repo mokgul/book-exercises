@@ -5,10 +5,7 @@
 ## 📌 Repositories by Language
 
 ### 🟦 CSharp
-📁 [book-exercises-csharp](https://github.com/yourusername/book-exercises-csharp)
-
-### 🐍 Python
-📁 [book-exercises-python](https://github.com/yourusername/book-exercises-python)
+📁 [book-exercises-csharp](https://github.com/mokgul/book-exercises-csharp)
 
 ### 🔴 Angular
 📁 [book-exercises-angular](https://github.com/yourusername/book-exercises-angular)
