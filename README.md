@@ -7,8 +7,8 @@
 ### 🟦 CSharp
 📁 [book-exercises-csharp](https://github.com/mokgul/book-exercises-csharp)
 
-### 🔴 Angular
-📁 [book-exercises-angular](https://github.com/yourusername/book-exercises-angular)
+### 🔴 Front-End
+📁 [book-exercises-angular](https://github.com/yourusername/book-exercises-front-end)
 
 ---
 
